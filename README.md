@@ -15,11 +15,10 @@ Field options in JSON include:
 - Currency
 - ...
 
-# 
+## callback
+ rp's have pre-registered callbacks to prevent abuse.
 
-# rp's have pre-registered callbacks to prevent abuse.
-
-approval LoA options
+## approval LoA options
 - simple response (hit button)
 - add faceid/PIN before responding (likely overkill)
 
