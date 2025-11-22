@@ -1,14 +1,16 @@
 # iPhone native app authenticator that can be used by multiple RPs (including Passli) to get additional assurance
 
-caller specifies the JSON for the message the app will display on the "logged in user's iPhone" (logged into the current browser)
+# what the caller specifies
+caller specifies the JSON for the message the app will display on the "logged in user's iPhone" (logged into the current browser). 
 
-for example
+## example JSON request
 
 From account: 213432343
 To Bank: 2343243
 To account number: 23432423
 Amount: 324.23
 Currency: USD
+Button: Approve wire transfer
 
 ## User registration
 User starts up the app
